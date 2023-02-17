@@ -7,6 +7,6 @@ export const config = {
 
 export default (req: NextRequest) => {
   return NextResponse.json({
-    name: `Hello, sunbeibei!`,
+    name: `Hello, 姆伊用药助手!`,
   });
 };
